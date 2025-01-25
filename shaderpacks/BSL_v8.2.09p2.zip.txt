@@ -1,0 +1,11 @@
+#Wed Jan 22 16:10:01 PST 2025
+shadowDistance=128.0
+LIGHT_SHAFT=false
+SHADOW_FILTER=false
+SHADOW_BLOCK_ENTITY=false
+shadowMapResolution=512
+SHADOW=false
+SHADOW_ENTITY=false
+SHADOW_VEGETATION=false
+SHADOW_COLOR=false
+AO=false

@@ -1,0 +1,5 @@
+#Thu Jan 23 21:49:23 PST 2025
+shadowDistance=512.0
+shadowMapResolution=4096
+DOF=true
+CHROMATIC_ABBERATION=true
