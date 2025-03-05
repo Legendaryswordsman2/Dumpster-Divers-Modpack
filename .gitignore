@@ -19,3 +19,4 @@ servers.essential.dat
 hs_err_pid7720.log
 minecraftinstance.json
 /crash-reports
+*.log
